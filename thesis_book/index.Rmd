@@ -1,0 +1,54 @@
+--- 
+# title: "Rethinking Variation in Social Cognition: Gaze Following across Individuals, Ages, and Communities"
+# author: "Julia Christin Prein"
+# date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: scrbook
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+# description: |
+link-citations: yes
+github-repo: jprein/thesis
+---
+
+
+
+\begin{titlepage}					
+	\begin{center}
+		\includegraphics[height=3.2cm]{logo.pdf}\\[40mm]
+		
+		\huge {\linespread{1.5} Rethinking Variation in Social Cognition: \\ Gaze Following across Individuals, Ages, and Communities}\\[30mm]
+		
+				
+		\normalsize Von der Fakultät Nachhaltigkeit \\ der Leuphana Universität Lüneburg zur Erlangung des Grades\\
+		Doktorin der Psychologie\\-- Dr. rer. nat. --\\[10mm]
+		
+		genehmigte Dissertation von\\[10mm]
+		Julia Christin Prein\\
+		geboren am TT.MM.JJJJ in XXX
+		
+	\vspace*{\fill} 
+	\end{center}
+	
+	\newpage
+	\thispagestyle{empty}
+	\begin{flushleft}
+	  \begin{normalsize}
+	  
+	  \vspace*{\fill} 
+	  		Eingereicht am: \tabto*{30mm} 1. Oktober 2024 \\[10mm]
+	  		
+	  		Erstbetreuer: \tabto*{30mm} Prof.\,Dr.\, Manuel Bohn, \textit{Leuphana Universität Lüneburg}\\
+				Zweitbetreuer: \tabto*{30mm} Prof.\,Dr.\, Sebastian Wallot, \textit{Leuphana Universität Lüneburg}\\[10mm]
+				
+				Erstgutachter: \tabto*{30mm} Prof.\,Dr.\, Manuel Bohn, \textit{Leuphana Universität Lüneburg}\\
+				Zweitgutachter: \tabto*{30mm} Prof.\,Dr.\, Sebastian Wallot, \textit{Leuphana Universität Lüneburg}\\
+				Drittgutachter: \tabto*{30mm} Prof.\,Dr.\, Daniel Haun, \textit{Universität Leipzig \& Max-Planck-Institut für\\
+				\tabto*{30mm} Evolutionäre Anthropologie}\\[10mm]
+		\end{normalsize}
+	\end{flushleft}
+	
+\end{titlepage}
+
+\tableofcontents
