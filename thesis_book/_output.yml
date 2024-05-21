@@ -1,5 +1,6 @@
 bookdown::gitbook:
   css: style.css
+  pandoc_args: [ "--csl", "apa.csl" ]
   config:
     toc:
       before: |
@@ -13,6 +14,8 @@ bookdown::pdf_book:
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
-  citation_package: natbib
+  citation_package: default
   keep_tex: yes
-bookdown::epub_book: default
+  pandoc_args: [ "--csl", "apa.csl" ]
+bookdown::epub_book:
+  pandoc_args: [ "--csl", "apa.csl" ]

@@ -1,15 +1,11 @@
 --- 
-# title: "Rethinking Variation in Social Cognition: Gaze Following across Individuals, Ages, and Communities"
-# author: "Julia Christin Prein"
-# date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-documentclass: scrbook
-bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-# description: |
-link-citations: yes
-github-repo: jprein/thesis
+site:             bookdown::bookdown_site
+documentclass:    scrbook
+link-citations:   yes
+github-repo:      jprein/thesis
+bibliography:     "../../references.bib"
+biblio-style:     apalike
+csl:              "apa.csl"
 ---
 
 
