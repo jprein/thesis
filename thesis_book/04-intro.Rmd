@@ -1,9 +1,10 @@
+\mainmatter
+
 # Introduction {#introduction}
 
 <!-- To label an un-numbered heading, use: `# Hello world {-#nice-label}` or `{# Hello world .unnumbered}`. -->
 
-Please see Chapter \@ref(studyII). 
-[This will lead you to Study III](#studyIII).
+This will lead you to [Study III](#studyIII).
 
 <!-- Figures and tables *with captions* can also be cross-referenced from elsewhere in your book using `\@ref(fig:chunk-label)` and `\@ref(tab:chunk-label)`, respectively. -->
 

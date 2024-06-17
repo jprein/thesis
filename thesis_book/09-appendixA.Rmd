@@ -1,0 +1,52 @@
+# Appendix A — Main Publications {#appendixA}
+
+This dissertation includes four main publications that were either published ([Study I](#studyI)) or under review ([Study II](#studyII), [Study III](#studyIII), [Study IV](#studyIV)) at the time of the dissertation submission. The full texts of these publications are provided below. For the accepted manuscript, the published version is provided. For manuscripts under review, the submitted versions are provided which are published online as pre-prints. 
+
+&nbsp;
+
+**[Study I](#studyI):** Prein, J. C., Kalinke, S., Haun, D. B. M.\*, & Bohn, M.\* (2023). TANGO: A reliable, open-source, browser-based task to assess individual differences in gaze understanding in 3 to 5-year-old children and adults. *Behavior Research Methods, 56*(3), 2469–2485. https://doi.org/10.3758/s13428-023-02159-5
+
+**[Study II](#studyII):** Prein, J. C., Maurits, L., Werwach, A., Haun, D. B. M.,\* & Bohn, M.\* (2024). *Variation in gaze understanding across the life span: A process-level perspective.* PsyArXiv. https://doi.org/10.31234/osf.io/dy73a
+
+**[Study III](#studyIII):** Bohn, M.\*, Prein, J. C.\*, Ayikoru, A., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Isabella, J., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., … Haun, D. (2024). *A universal of human social cognition: Children from 17 communities process gaze in similar ways.* PsyArXiv. https://doi.org/10.31234/osf.io/z3ahv
+
+**[Study IV](#studyIV):** Prein, J. C., Maurits, L., Werwach, A., Haun, D. B. M., & Bohn, M. (2024). *Variation in gaze following across the life span: A process-level perspective.* PsyArXiv. https://doi.org/10.31234/osf.io/dy73a
+
+\newpage
+
+## Study I {#studyI}
+\begin{minipage}{\textwidth}
+\includepdf[pages={1}, scale=0.85, offset=0 -1cm, pagecommand={}]{../papers/studyI.pdf}
+\end{minipage}
+
+\includepdf[pages={2-}, scale=0.85, pagecommand={}]{../papers/studyI.pdf}
+
+\newpage
+
+## Study II {#studyII}
+
+\begin{minipage}{\textwidth}
+\includepdf[pages={1}, scale=0.85, offset=0 -1cm, pagecommand={}]{../papers/studyII.pdf}
+\end{minipage}
+
+\includepdf[pages={2-}, scale=0.85, pagecommand={}]{../papers/studyII.pdf}
+
+\newpage
+
+## Study III {#studyIII}
+
+\begin{minipage}{\textwidth}
+\includepdf[pages={1}, scale=0.85, offset=0 -1cm, pagecommand={}]{../papers/studyIII.pdf}
+\end{minipage}
+
+\includepdf[pages={2-}, scale=0.85, pagecommand={}]{../papers/studyIII.pdf}
+
+\newpage
+
+## Study IV {#studyIV}
+
+\begin{minipage}{\textwidth}
+\includepdf[pages={1}, scale=0.85, offset=0 -1cm, pagecommand={}]{../papers/studyIV.pdf}
+\end{minipage}
+
+\includepdf[pages={2-}, scale=0.85, pagecommand={}]{../papers/studyIV.pdf}

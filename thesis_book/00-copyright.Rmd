@@ -1,9 +1,9 @@
-# Copyright Notice {-}
+# Copyright Notice {#copyright}
 
 The research articles included in this cumulative dissertation have been or will be published in international peer-reviewed journals. Copyright of the text and illustrations lies with the author or authors of the respective chapter(s). The publishers own the exclusive rights to publish or use the text and illustrations for their own purposes. Reprinting any part of this dissertation thesis requires the permission of the copyright holder(s).
 The individual contributions of this cumulative thesis have been or will be published (in chronological order) as follows:
 
-Prein, J. C., Kalinke, S., Haun, D. B. M.\*, & Bohn, M.\* (2024). TANGO: A reliable, open-source, browser-based task to assess individual differences in gaze understanding in 3 to 5-year-old children and adults. *Behavior Research Methods, 56*(3), 2469–2485. https://doi.org/10.3758/s13428-023-02159-5
+Prein, J. C., Kalinke, S., Haun, D. B. M.\*, & Bohn, M.\* (2023). TANGO: A reliable, open-source, browser-based task to assess individual differences in gaze understanding in 3 to 5-year-old children and adults. *Behavior Research Methods, 56*(3), 2469–2485. https://doi.org/10.3758/s13428-023-02159-5
 
 Prein, J. C., Maurits, L., Werwach, A., Haun, D. B. M.,\* & Bohn, M.\* (2024). *Variation in gaze understanding across the life span: A process-level perspective.* PsyArXiv. https://doi.org/10.31234/osf.io/dy73a
 
