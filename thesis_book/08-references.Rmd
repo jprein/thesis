@@ -1,4 +1,0 @@
-\backmatter
-# References
-
-<div id="refs"></div>

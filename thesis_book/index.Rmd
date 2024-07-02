@@ -22,7 +22,7 @@ csl:              "apa.csl"
 		
 		genehmigte Dissertation von\\[10mm]
 		Julia Christin Prein\\
-		geboren am TT.MM.JJJJ in XXX
+		geboren am 26.02.1995 in Berlin-Kreuzberg, Deutschland
 		
 	\vspace*{\fill} 
 	\end{center}

@@ -1,0 +1,12 @@
+---
+acronyms:
+  keys:
+    - shortname: ToM
+      longname: Theory of Mind
+    - shortname: CI
+      longname: Confidence Interval
+    - shortname: CrI
+      longname: Credible Interval
+    - shortname: GLMM
+      longname: Generalized Linear Mixed Model
+---

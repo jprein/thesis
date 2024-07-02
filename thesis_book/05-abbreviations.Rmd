@@ -1,0 +1,12 @@
+---
+output:
+  acronymsdown::md_format
+acronyms:
+  loa_title: "List of Abbreviations"
+  insert_loa: false
+  fromfile: ./acronyms.yml
+  include_unused: false
+  sorting: alphabetical
+---
+
+\printacronyms
