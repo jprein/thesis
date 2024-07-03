@@ -1,0 +1,154 @@
+\mainmatter
+
+# General Introduction {#introduction}
+
+Humans share roughly 90 percent of their DNA with that of cats [@pontius2007initial], and even close to 99 percent match our closest living relatives, the chimpanzees [@waterson2005initial]. In many ways, we are comparable to other mammals: for example, we have eyes, ears, and noses that sensorily perceive the surroundings, and we have a neocortex that processes this information and performs higher-order brain functions like spatial reasoning and motor commands. In other domains, the animal kingdom far exceeds humans in their abilities and characteristics. Cheetahs can run up to 120 km/h, and Peregrine falcons reach over 380 km/h when diving for prey. Bats and dolphins use echolocation to navigate in complete darkness. Ocean Sunfish have extraordinary reproductive abilities and can lay up to 300 million eggs at once, and the Greenland Shark can live as long as 400 years. So many other species are faster, produce more offspring, and live longer than humans. And yet, the majority of the earth's surface gets populated, exploited, and domesticated by mainly *one* mammal: the *Homo sapiens*. Which abilities brought humans to their ecological success? What makes us uniquely human?
+
+In 1977, NASA launched the Voyager 1 and 2 spacecraft with a golden time capsule as a bold interstellar greeting. This Golden Record aimed to present the essence of Earth and humanity to potential extraterrestrial receivers. It included natural sounds, a selection of music from different cultures, greetings in 55 languages, and a photographic gallery. Among several pictures of mathematical formulas, scientific diagrams and planetary constellations, a large proportion of the included photos focused on the most fundamental human experiences. These pictures showed humans hunting and playing music together, eating and arguing at a full dinner table, collaboratively rowing a boat, competitively running against each other in marathons, nursing their children, and teaching them how to write. Strikingly, humans were rarely presented alone. These photographs, attempting to capture a comprehensive snapshot of Earth's environment, focused on humans interacting with each other in social and cultural groups.
+
+Our ability to engage in social interactions and communicate with others has also been highlighted in prominent evolutionary and psychological theories [e.g., @tomasello2019becoming]. The number of publications in different psychological domains highlights that many psychologists agree on the importance of social cognition. A quick search on the APA PsycNet (on June 25, 2024, at 17:00 CET) revealed 28,594 results for the search term "social cognition", while only 3,095 results appeared for "spatial cognition" and 95 appeared for "physical cognition". Humans have been described as "ultra-social primates" [@grossmann2022becoming, p. 1]. We form social bonds [e.g., @bowlby1958nature], live (mostly) cooperatively [e.g., @tomasello2020adaptivea], exchange information and learn through observing others [e.g., @csibra2009natural]. By relying on these strategies, knowledge and skills could be passed on from generation to generation — which could not have possibly been acquired by one single individual [@henrich2015secreta]. Sociality — and the cognitive abilities enabling it — might very well be human's superpower.
+
+A seminal paper by @herrmann2007humansa tested the hypothesis that humans have unparalleled social-cognitive abilities. The researchers administered a cognitive test battery with 16 different tasks to chimpanzees, orangutans, and 2.5-year-old human infants. Indeed, the results showed that all three groups showed similar cognitive abilities within the physical world (space, quantities, causality), while human infants outperformed the chimpanzees and orangutans when it came to the social world (social learning, communication, Theory of Mind). This study clearly underlines humans' remarkable abilities in the social realm.
+
+## Social Cognition
+
+### Terminology
+
+So far, I have argued for the importance of human's social-cognitive abilities. Before going deeper into the developmental literature on social cognition, let us clarify the term: What is social cognition? Interestingly, there is not one agreed-upon definition accepted by most psychologists. Rather, cynical tongues might say that there are as many definitions of social cognition as there are research articles on it. As Ostrom put it in the Foreword of the Handbook of Social Cognition: "I regard single-sentence definitions of social cognition to be slightly offensive […]. It would be more accurate to say that my preferred definition is the entire Handbook of Social Cognition, both this and the first edition combined." [@ostrom1994foreword, p. vii]. Indeed, researchers have argued that the non-specific and heterogeneous vocabulary hinders empirical and theoretical advancement: sometimes, a single concept is described by several different labels (convergence of meaning), while other concepts share the same label but refer to different constructs (divergence of meaning) [@quesque2020theoryofmind; @quesque2024defining].
+
+To get a clearer grasp on what developmental psychologists understand under the term social cognition, we conducted a short expert survey at the beginning of my Ph.D. (in Autumn/Winter 2020). We distributed an online questionnaire via personal contacts and emailing lists (e.g. cogdevsoc mailing list) to researchers broadly working in cognitive, comparative, cross-cultural and/or developmental psychology. Out of the 100 experts that completed the survey, more than half held a professorship, and the majority focused on basic research with children. First, we asked experts to define social cognition as a psychological construct. Exactly one third of the sample (33%, n = 33) chose a definition by @glynn2016social: "Social cognition is the process by which actors, at individual or collective levels, decode and encode their social world, using mental models, knowledge structures and cultural understandings to process information, extract meaning and determine appropriate action." (p. 1). The next two most frequently chosen definitions focused similarly on the information processing aspects in environments with other agents ("[...] encompasses all the information-processing mechanisms that underlie how people capture, process, store, and apply information about others to navigate social situations" [@decety2020preface, p. ix]; “[…] is concerned with the study of the thought processes, both implicit and explicit, through which humans attain understanding of self, others, and their environment" [@moskowitz2013social, p. 1]). In the next step, we asked experts to name which dimensions they mentioned most often when discussing or writing about social cognition. The dimensions that were chosen by more than half of the experts were beliefs, knowledge, perspective-taking and intentions. Finally, we compiled a list of 21 social-cognitive abilities and asked experts to rate the likelihood that children of the same age would vary to perform these abilities. The experts assumed that children varied mostly in whether they manipulate emotions, deceive others, simulate others' reasoning processes, take another's perspective, and understand the subjectivity of knowledge states. Abilities that were assumed to vary the least between children of the same age were recognizing agents and following gaze. It appeared that experts assumed variation in many social-cognitive abilities and judged the more room for individual differences, the more complex a given social-cognitive ability. Please note that more information on the expert survey can be found in [Appendix C].
+
+-   distinction theory of mind vs social cognition needed?
+-   ToM Abkürzung einführen
+
+A related term to social cognition is \acr{ToM}. While these terms are sometimes used synonymously, social cognition functions as the umbrella term that encompasses \acr{ToM}. \acr{ToM} itself describes a system organized around beliefs, desires, and actions that we use in order to make sense of other agents. We try to understand actions by attributing mental states to ourselves and others — summarized by Wellman as follows: "in our everyday thinking we construe people as engaging in acts they *think* will get them what they *want*" [@wellman2013universal, p. 69].
+
+### Developmental Milestones
+
+Importantly, human infants do not come into the world already possessing all these social-cognitive abilities [@tomasello2020adaptivea]. Much of the developmental psychology research today focuses on how children acquire the social-cognitive abilities needed to become full members of our society.
+
+-   developmental milestones in social cognition anreißen
+
+### Individual Differences
+
+Many decades of research in social cognition have taught us much about developmental milestones and at which average children possess certain social-cognitive abilities [for a review, see @rakoczy2022foundations]. For example, we have learned that children are around four to five year of age when they understand that other agents can have false beliefs that differ from the child's own belief and from reality [@wellman2001metaanalysis].
+
+Anyone who has ever interacted with children of a similar age must have noticed that they can still differ in their abilities: some children might be faster in learning how to walk, while others might be quicker in learning how to talk.
+
+*Individual differences* describe the features in which agents vary ("traits or other characteristics by which individuals may be distinguished from one another", [@americanpsychologicalassociationindividual]). *Inter*-individual differences focus on the variability *between* children, while *intra*-individual differences focus on the variability *within* the same child. @asendorpf1992stability have argued that inter-individual differences are often interpreted as trait-like characteristics (e.g. personality) that are more or less stable over time, while intra-individual differences might capture state-like characteristics (e.g. motivation) or development within a given construct. The present thesis and the associated publications focus on inter-individual differences, often abbreviated to individual differences.
+
+A prominent framework that could explain differences between individuals is Vygotsky's sociocultural theory of cognitive development [@vygotsky1962thought; @vygotsky1978mind; @vygotsky1987thinking]. This theory emphasizes the role of social interaction in children's cognitive development and as such, learning as a social process. In other words, it is assumed that social interaction shapes social cognition.
+
+In order to empirically test if social interaction shapes social cognition, we need to study children's daily environments and cognitive abilities on the individual level.
+
+Studies focussing on individual differences aim to measure variation between children in a given social-cognitive ability and, potentially, study the co-development of certain cognitive abilities or link this variation to internal and external factors that influence its development. As such, individual differences studies act as a powerful tool to build and test developmental theories and the structure of social cognition [@happe2017structure]. Additionally, individual differences studies are needed to design (clinical or educational) intervention programs. Capturing change before and after an intervention helps to evaluate its efficacy.
+
+-   also for modeling, understanding underlying processes?
+
+Examples include studies conducted with twins [@ronald2006individual; @hughes2005originsa].
+
+-   example from comparative work: some researchers focus on what chimps in average do, others focus on the very end of the distribution: what are they capable of?
+-   cross-cultural variation: not only average from small samples
+
+False-belief understanding can predict children's pretense use, abilities for social interaction, peer popularity, which clearly underlines the relevance of individual differences in social-cognitive abilities for real-life outcomes [@wellman2013universal].
+
+### Cross-cultural Research
+
+@wellman2013universal has argued that children's social-cognitive development is a particularly informative domain to assess in which ways people all over the world resemble an differ from one another.
+
+## Gaze Following
+
+### Terminology
+
+### Developmental Milestones
+
+### Individual Differences
+
+### Cross-cultural Research
+
+### Research Gaps
+
+## Methodological Considerations
+
+### Terminology
+
+In the context of this work, the terms *variability*, *variation* and *variance* need further explanation. According to the APA Dictionary of Psychology, the definitions of variability and variation greatly resemble each other (variability: "1. the quality of being subject to change or variation in behavior or emotion, 2. the degree to which members of a group or population differ from each other, as measured by statistics such as the range, standard deviation, and variance" [@americanpsychologicalassociationvariability]; variation: "1. the existence of qualitative differences in form, structure, behavior, and physiology among the individuals of a population, whether due to heredity or to environment. Both artificial selection and natural selection operate on variations among organisms, but only genetic variation is transmitted to offspring. 2. in statistics, the degree of variance or dispersion of values that is obtained for a specific variable" [@americanpsychologicalassociationvariation]). Both definitions focus on differences between individuals that can be applied to the behavioral level. As in most of the developmental literature, the terms variability and variation will be used interchangeably in this work.
+
+As the definitions of variability and variation indicate, the term *variance* denotes a statistical measure for the degree to which group members differ from one another. It describes the dispersion of a distribution by calculating how far the values of a sample spread out from their average value. Consequently, a smaller variance means less differences between individuals in a given sample (a measure of the spread, or dispersion, of scores within a sample or population, whereby a small variance indicates highly similar scores, all close to the sample mean, and a large variance indicates more scores at a greater distance from the mean and possibly spread over a larger range", [@americanpsychologicalassociationvariance]).
+
+*Validity* concerns the truthfulness of a measure or the degree to which a measure captures what it is designed to measure conceptually ("1. the characteristic of being founded on truth, accuracy, fact, or law. 2. the degree to which empirical evidence and theoretical rationales support the adequacy and appropriateness of conclusions drawn from some form of assessment [...]", [@americanpsychologicalassociationvalidity]). There are several different types of validity. In the context of this work, we focus on *convergent* validity (*i.e.,* the degree to which two measures that should be theoretically related are indeed related), *predictive* validity (*i.e.,* the degree to which a measure relates to other measures separated by a determined period (= predicting scores in the other measure)), and *external* validity (*i.e.,* the degree to which the results of a measure can be generalized beyond the original sample).
+
+*Reliability* refers to the degree to which a measure produces consistent, stable results when repeated again ("the trustworthiness or consistency of a measure, that is, the degree to which a test or other measurement instrument is free of random error, yielding the same results across multiple applications to the same sample", [@americanpsychologicalassociationreliability]; "). Two main types of reliability are often assessed when evaluating a given measure. *Internal consistency* focuses on the relationship between items in the same measure to ensure they measure the same construct. *(Test-) Retest reliability* assesses a measure's stability over time and estimates the relationship of the measurement scores on two different administration occasions (e.g., test day one followed by test day two three weeks later).
+
+### Existing Social Cognition Measures
+
+Unfortunately, there are not too many measures that were designed to capture individual differences in social cognition in children and according to @beaudoin2020systematic, social cognition studies rarely report psychometrical information.
+
+Reasons for such an insufficiency in individual differences measures might be the inherent challenges in methodological advancements. Developing a reliable and valid measure is time-consuming, and (due to some features of the publishing system) not overly rewarding.
+
+An example is a longitudinal study by @sodian2016understanding who have investigated how goals, beliefs and desires relate to moral \acr{ToM} They reported that "Contrary to expectations, neither goal encoding nor implicit false belief understanding was correlated with the Mo[ral] \acr{ToM} false belief question" (p. 1227).
+
+Two main interpretations come to mind when reading about these results. On one hand, the hypothesis that goal encoding and implicit FB understanding should be related to moral \acr{ToM} could be simply incorrect. On the other, more optimistic hand, the non-existent relationship could be explained by methodological issues: potentially, the applied measures could not capture variation between children. Interestingly, @sodian2016understanding stated two sentences later: "[...] verbal IQ was positively correlated with almost all the assessed variables" (p. 1227). Why should we care about this relationship? The measures for verbal IQ was - by definition - designed to capture individual differences in linguistic intelligence. Possibly, the measures that we use for correlational analyses need to leave room for individual differences in order to find them.
+
+What does it mean for a measure to be designed for individual differences? To drive the point home, let us imagine the opposite first. Many developmental study paradigms present children with two objects. For example, the Sally-Anne-task lets children witness how a ball gets moved from one box to a basked while another agent does or does not witness the change of location. Children then get asked where the agent believes the ball to be. Possible responses are (1) the box or (2) the basket. Similarly, in the traditional gaze following paradigm, an agent moves a toy into one of two boxes. Children themselves do not see where the toy was put but only see whether the agent looks to the (1) left- or (2) right-hand side. Common outcome measures focus on children's looking or reaching behavior toward the two boxes. What becomes apparent is that these common social cognition tasks rely on dichotomous measures: either the child passes or fails the task. The child's ability in question cannot be depicted on a continuous scale. A measure designed to capture individual differences would benefit from a continuous outcome measure, or, at least, more than one trial per child.
+
+### The Need for a Paradigm Shift
+
+Classical experimental paradigms often give little weigh to individual differences. When research questions focus on condition differences or the average age in which children pass a given social-cognitive task, variation between children is often handled by excluding outliers and calculating mean scores. As such, individual differences are regarded as noise or measurement error [@kidd2018individual].
+
+I will argue that we need to question the interpretation that variation between individuals equals noise and should be thrown away. Indeed, some research agendas rely on the assumption that meaningful individual differences exist. For example, correlational studies aim to quantify the degree of a relationship between two variables. They assess whether children that perform well in one task also perform well in another task. In order to assess such a relationship, an individual's ability must be measured accurately on both scales. Indeed, the correlation between two measures cannot be greater than the reliability of the individual measures. For example, let us assume we apply measure A with a known reliability estimate of .5 and measure B with a reliability estimate of .6 ...
+
+Many research questions in developmental psychology are indeed individual differences questions.
+
+Research focusing on the (dis)continuity of development must also rely on measures that can accurately track children's abilities across time. A textbook example is the question whether children develop some abilities similar to a tree that grows continuously over time or rather like a butterfly that develops in distinct stages (from caterpillar, to cocoon, to butterfly).
+
+-   An example of a gradual process developmental theory comes from Vygotsky. Theories within this realm assume that change occurs slowly and gradually.
+
+-   An example of a stage-like developmental theory comes from Piaget who assumes that children ... Children are assumed to go through these qualitatively different stages in a set universal order.
+
+-   First step is describing change, second step is explaining change! What changes over time and why? Process models.
+
+-   Universality in development? Maybe absolute differences in test scores but similar patterns overall?
+
+-   Interestingly, sometimes the same study paradigms are used for correlational research that were previously designed for experimental research focusing on group averages. It becomes apparent that this approach is
+
+### A Potential Way Forward
+
+That this endeavor is nevertheless worth it can be seen from a historical perspective on science. Often, only after new measurement techniques, new knowledge could be gained and theories could be advanced. In other words: newly designed methods led to new opportunities and research questions. [todo example, maybe Teleskop]
+
+-   correlations only as large as the least reliable measure; we correlate lots but rarely know the psychometrics of the tasks
+
+-   potential issues:
+
+    -   group-level averages
+    -   small sample sizes
+    -   low trial numbers
+    -   dichotomous measures
+    -   missing or unsatisfactory psychometric properties
+
+-   Poor measurement on an individual level might conceal relationships between different aspects of cognition and may obscure developmental change
+
+-   Wishlist:
+
+    -   Objective, standardized measures (compared to anecdotal evidence, diaries)
+    -   Parametric measures (= continuous instead of dichotomous. Avoid floor & ceiling effects) (Schaafsma, Pfaff, Spunt, and Adolphs, 2015)
+    -   Satisfactory reliability estimates (Beaudoin et al., 2020; Hughes & Devine, 2015)
+    -   Induce variation across individuals and age groups (Repacholi, 2003)
+
+-   Behavior measured should represent behavior in real world (Repacholi, 2003)
+
+-   many seemingly unrelated issues: replicability crisis, no correlations when theoretically expected, overreliance on Global North samples
+
+-   how can we address these issues? maybe for many similar solution, namely robust methods
+
+-   what makes a method robust? vali & reli
+
+-   but also: to move science forward, collaborative endeveaours are needed. Open science, share the task, so that others can reproduce results and test theories & generalizability
+
+-   we need new measures to capture individual differences in social cognition
+
+-   this thesis does so for a fundamental social-cognitive ability: gaze following
+
+-   paradigmen shift: here example of one construct how this might be possible
+
+-   capture ind diff reliably. check process behind it and related constructs. see whether this is universally applicable

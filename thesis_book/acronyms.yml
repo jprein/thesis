@@ -9,4 +9,8 @@ acronyms:
       longname: Credible Interval
     - shortname: GLMM
       longname: Generalized Linear Mixed Model
+    - shortname: TANGO
+      longname: Task for Assessing iNdividual differences in Gaze understanding - Open
+    - shortname: TANGO—CC
+      longname: TANGO—Cross-Cultural
 ---

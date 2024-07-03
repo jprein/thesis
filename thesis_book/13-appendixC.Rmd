@@ -1,0 +1,12 @@
+# Appendix C — Social Cognition Survey {-#appendixC}
+
+In Autumn/Winter 2020, we conducted a short online expert survey on defining social cognition, as reported in the Introduction. Below you find the full survey, including the questions and the answers of the experts.
+
+## Documentation of the Expert Online Survey “Defining Social Cognition” {-#social-cognition-survey}
+\begin{minipage}{\textwidth}
+\includepdf[pages={1}, scale=0.85, offset=0 -1cm, pagecommand={}]{../supplements/social_cognition_survey.pdf}
+\end{minipage}
+
+\includepdf[pages={2-}, scale=0.85, pagecommand={}]{../supplements/social_cognition_survey.pdf}
+
+\newpage

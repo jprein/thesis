@@ -1,0 +1,62 @@
+# General Discussion {#discussion}
+
+## Summary of Results
+
+### Results of Study I {#resultsI}
+
+The task design
+
+### Results of Study II {#resultsII}
+
+### Results of Study III {#resultsIII}
+
+### Results of Study IV {#resultsIV}
+
+## Research Contributions
+
+-   also include orev & previc as examples how the platform idea is useful tool (gleiche Plattform, Prinzipien der Entwicklung)
+
+## Limitations
+
+### The task itself
+
+-   social enough? still on screen, only observing
+-   idea for first social interaction, where participant guides where agent looks. more like a second-person perspective
+-   change in framing: gaze understanding to gaze following. why?
+
+Developmental studies often report high number of drop-out rates, for example because of children's fuzziness (todo: example). Administering the The \acr{TANGO} has proven very helpful in this regard: across communities, children tended to complete the task with ease and even asked for a repetition. Drop-out rates could thus be greatly reduced. As the data collection procedures varied slightly from community to community, we cannot report exact numbers of drop-outs but rely on the experience of experimenters.
+
+### Modeling
+
+-   why is gafo still social if vector?
+-   why model needed? cc signature pattern, other interpretation than raw scores, in future incorporate more complex mental states
+-   why new? compared to others, only reliance on eyes not head. plus ind diff
+
+### Cross-cultural work
+
+-   do not want to signal cc is easy or we propose parachute science
+-   technology effect: yes but still ind diff in communities where touchscreen = 1
+-   more helpful to check relative imprecision, not absolute values within or between communities
+-   idea for touchscreen familiarization: bubble wrap game
+-   [@wellman2013universal] how can social cognition be universal and yet vary? framework understanding 
+-   importantly, focusing on signature patterns helps us to study underlying cognitive processes, which raw absolutes score could not have revealed 
+-   don't just compare urban global north to rural global south, which is common pitfall in CC work (Barrett 2020)
+
+## Outlook
+
+Applying the tool: Chapter on how Gafo can be extended to answer new research questions.
+
+### Possible spin-offs of the TANGO
+
+-   gafo alien to answer why we need to integrate information from 2 eyes. probably important for side locations in \acr{TANGO}?
+-   circle like clock to circumvent precision with distance diffusion
+-   different starting directions to avoid center bias
+
+### Open research questions
+
+-   but also: all methods sanity checks so that now theory testing can start
+-   do social interactions shape social cognition abilities? we need good measures on both ends, machine learning as promising avenue
+-   back to uniquely human: what about great apes? how would they perform in gafo?
+-   now that we can study vector following, we can also go down this path: is vector estimation needed in other social cognitive abilities? what about for example action prediction, reaching at sth?
+
+## Conclusion

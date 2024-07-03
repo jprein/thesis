@@ -18,6 +18,7 @@ bookdown::pdf_book:
   keep_tex: yes
   pandoc_args: 
     - !expr acronymsdown::add_filter() # add abbreviation list; https://github.com/rchaput/acronymsdown/tree/master/tests
+    - "--wrap=preserve"
     - "--csl"
     - "apa.csl"
 bookdown::epub_book:

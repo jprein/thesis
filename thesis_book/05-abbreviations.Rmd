@@ -9,4 +9,8 @@ acronyms:
   sorting: alphabetical
 ---
 
+\renewcommand{\baselinestretch}{0.9999}\normalsize
+\tableofcontents
+\renewcommand{\baselinestretch}{1.0}\normalsize
+
 \printacronyms
