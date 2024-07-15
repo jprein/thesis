@@ -5,12 +5,12 @@ acronyms:
   loa_title: "List of Abbreviations"
   insert_loa: false
   fromfile: ./acronyms.yml
-  include_unused: false
+  include_unused: true
   sorting: alphabetical
 ---
 
-\renewcommand{\baselinestretch}{0.9999}\normalsize
+\renewcommand{\baselinestretch}{1.2}\normalsize
 \tableofcontents
-\renewcommand{\baselinestretch}{1.0}\normalsize
+\renewcommand{\baselinestretch}{1.5}\normalsize
 
 \printacronyms

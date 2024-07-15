@@ -10,7 +10,19 @@ acronyms:
     - shortname: GLMM
       longname: Generalized Linear Mixed Model
     - shortname: TANGO
-      longname: Task for Assessing iNdividual differences in Gaze understanding - Open
+      longname: Task for Assessing iNdividual differences in Gaze understanding — Open
     - shortname: TANGO—CC
       longname: TANGO—Cross-Cultural
+    - shortname: oREV
+      longname: open Receptive Vocabulary task
+    - shortname: PREVIC
+      longname: Parent Report of Expressive Vocabulary in Children
+    - shortname: CLT
+      longname: Cross-linguistic Lexical Task
+    - shortname: IRT
+      longname: Item Response Theory
+    - shortname: FB
+      longname: False Belief
+    - shortname: DISKO
+      longname: Differentiating Incomplete States of Knowledge — Open
 ---
