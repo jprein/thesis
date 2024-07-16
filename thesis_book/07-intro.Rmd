@@ -6,7 +6,7 @@ Humans share roughly 90 percent of their DNA with that of cats [@pontius2007init
 
 In 1977, NASA launched the Voyager 1 and 2 spacecraft with a golden time capsule as a bold interstellar greeting. This Golden Record aimed to present the essence of Earth and humanity to potential extraterrestrial receivers. It included natural sounds, a selection of music from different cultures, greetings in 55 languages, and a photographic gallery. Among several pictures of mathematical formulas, scientific diagrams and planetary constellations, a large proportion of the included photos focused on the most fundamental human experiences. These pictures showed humans hunting and playing music together, eating and arguing at a full dinner table, collaboratively rowing a boat, competitively running against each other in marathons, nursing their children, and teaching them how to write. Strikingly, humans were rarely presented alone. These photographs, attempting to capture a comprehensive snapshot of Earth's environment, focused on humans interacting with each other in social and cultural groups.
 
-Our ability to engage in social interactions and communicate with others has also been highlighted in prominent evolutionary and psychological theories [e.g., @tomasello2019becoming]. The number of publications in different psychological domains highlights that many psychologists agree on the importance of social cognition. A quick search on the APA PsycNet (on June 25, 2024, at 17:00 CET) revealed 28,594 results for the search term "social cognition", while only 3,095 results appeared for "spatial cognition" and 95 appeared for "physical cognition". Humans have been described as "ultra-social primates" [@grossmann2022becoming, p. 1]. We form social bonds [e.g., @bowlby1958nature], live (mostly) cooperatively [e.g., @tomasello2020adaptivea], exchange information and learn through observing others [e.g., @csibra2009natural]. By relying on these strategies, knowledge and skills could be passed on from generation to generation — which could not have possibly been acquired by one single individual [@henrich2015secreta]. Sociality — and the cognitive abilities enabling it — might very well be human's superpower.
+Our ability to engage in social interactions and communicate with others has also been highlighted in prominent evolutionary and psychological theories [e.g., @tomasello2019becoming; @tomasello2003makes]. The number of publications in different psychological domains highlights that many psychologists agree on the importance of social cognition. A quick search on the APA PsycNet (on June 25, 2024, at 17:00 CET) revealed 28,594 results for the search term "social cognition", while only 3,095 results appeared for "spatial cognition" and 95 appeared for "physical cognition". Humans have been described as "ultra-social primates" [@grossmann2022becoming, p. 1]. We form social bonds [e.g., @bowlby1958nature], live (mostly) cooperatively [e.g., @tomasello2020adaptivea], exchange information and learn through observing others [e.g., @csibra2009natural]. By relying on these strategies, knowledge and skills could be passed on from generation to generation — which could not have possibly been acquired by one single individual [@henrich2015secreta]. Sociality — and the cognitive abilities enabling it — might very well be human's superpower.
 
 A seminal paper by @herrmann2007humansa tested the hypothesis that humans have unparalleled social-cognitive abilities. The researchers administered a cognitive test battery with 16 different tasks to chimpanzees, orangutans, and 2.5-year-old human infants. Indeed, the results showed that all three groups showed similar cognitive abilities within the physical world (space, quantities, causality), while human infants outperformed the chimpanzees and orangutans when it came to the social world (social learning, communication, Theory of Mind). This study clearly underlines humans' remarkable abilities in the social realm.
 
@@ -52,7 +52,7 @@ Examples include studies conducted with twins [@hughes2005originsa; @ronald2006i
 
 False-belief understanding can predict children's pretense use, abilities for social interaction, peer popularity, which clearly underlines the relevance of individual differences in social-cognitive abilities for real-life outcomes [@wellman2013universal].
 
-### Cross-cultural Research
+### Cross-Cultural Research
 
 @wellman2013universal has argued that children's social-cognitive development is a particularly informative domain to assess in which ways people all over the world resemble an differ from one another.
 
@@ -64,7 +64,7 @@ False-belief understanding can predict children's pretense use, abilities for so
 
 ### Individual Differences
 
-### Cross-cultural Research
+### Cross-Cultural Research
 
 ### Research Gaps
 
