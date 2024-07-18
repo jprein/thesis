@@ -17,12 +17,18 @@ csl:              "apa.csl"
 		\huge {\linespread{1.5} Rethinking Variation in Social Cognition: \\ Gaze Following across Individuals, Ages, and Communities}\\[30mm]
 		
 				
-		\normalsize Von der Fakultät Nachhaltigkeit \\ der Leuphana Universität Lüneburg zur Erlangung des Grades\\
-		Doktorin der Psychologie\\-- Dr. rer. nat. --\\[10mm]
+		\normalsize 
+		Faculty of Sustainability \\ 
+		at Leuphana University Lüneburg\\
+		Submitted as a requirement for the award of the title of\\ [10mm]
 		
-		genehmigte Dissertation von\\[10mm]
-		Julia Christin Prein\\
-		geboren am 26.02.1995 in Berlin-Kreuzberg, Deutschland
+		Doctor of Psychology\\
+		-- Dr. rer. nat. --\\[10mm]
+		
+		Approved dissertation by\\
+		Julia Christin Prein\\[10mm]
+		
+		born February 26, 1995 in Berlin-Kreuzberg, Germany
 		
 	\vspace*{\fill} 
 	\end{center}
@@ -31,17 +37,31 @@ csl:              "apa.csl"
 	\thispagestyle{empty}
 	\begin{flushleft}
 	  \begin{normalsize}
+	  \vspace*{5mm}
 	  
-	  \vspace*{\fill} 
-	  		Eingereicht am: \tabto*{30mm} 1. Oktober 2024 \\[10mm]
+	  		Submitted on: \tabto*{45mm} October 1, 2024 \\
 	  		
-	  		Erstbetreuer: \tabto*{30mm} Prof.\,Dr.\, Manuel Bohn, \textit{Leuphana Universität Lüneburg}\\
-				Zweitbetreuer: \tabto*{30mm} Prof.\,Dr.\, Sebastian Wallot, \textit{Leuphana Universität Lüneburg}\\[10mm]
+	  		Oral thesis defense on: \tabto*{45mm} February 26, 2025 \\
+	  		
+	  		Year of publication: \tabto*{45mm} 2025 \\[10mm]
+	  		
+	  		First supervisor: \tabto*{45mm} Prof.\,Dr.\, Manuel Bohn, \textit{Leuphana University Lüneburg}\\
+				Second supervisor: \tabto*{45mm} Prof.\,Dr.\, Sebastian Wallot, \textit{Leuphana University Lüneburg}\\[5mm]
+				First reviewer: \tabto*{45mm} Prof.\,Dr.\, Manuel Bohn, \textit{Leuphana University Lüneburg}\\
+				Second reviewer: \tabto*{45mm} Prof.\,Dr.\, Sebastian Wallot, \textit{Leuphana University Lüneburg}\\
+				Third reviewer: \tabto*{45mm} Prof.\,Dr.\, Daniel Haun, \textit{Leipzig University \& Max Planck Institute for\\
+				\tabto*{45mm} Evolutionary Anthropology Leipzig}\\[10mm]
 				
-				Erstgutachter: \tabto*{30mm} Prof.\,Dr.\, Manuel Bohn, \textit{Leuphana Universität Lüneburg}\\
-				Zweitgutachter: \tabto*{30mm} Prof.\,Dr.\, Sebastian Wallot, \textit{Leuphana Universität Lüneburg}\\
-				Drittgutachter: \tabto*{30mm} Prof.\,Dr.\, Daniel Haun, \textit{Universität Leipzig \& Max-Planck-Institut für\\
-				\tabto*{30mm} Evolutionäre Anthropologie}\\[10mm]
+				The individual publications in the cumulative thesis are included in Appendix A of this framework paper and are or will be published as follows: \\[5mm]
+
+Prein, J. C., Kalinke, S., Haun, D. B. M.\*, \& Bohn, M.\* (2024). TANGO: A reliable, open-source, browser-based task to assess individual differences in gaze understanding in 3 to 5-year-old children and adults. *Behavior Research Methods, 56*(3), 2469–2485. \mbox{\url{https://doi.org/10.3758/s13428-023-02159-5}} \\[5mm]
+
+Prein, J. C., Maurits, L., Werwach, A., Haun, D. B. M.,\* \& Bohn, M.\* (2024). Variation in gaze following across the life span: A process-level perspective. *Developmental Science*, Article e13546. \mbox{\url{https://doi.org/10.1111/desc.13546}} \\[5mm]
+
+Bohn, M.\*, Prein, J. C.\*, Ayikoru, A., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Isabella, J., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., … Haun, D. (2024). *A universal of human social cognition: Children from 17 communities process gaze in similar ways* [Manuscript submitted for publication]. PsyArXiv. \mbox{\url{https://doi.org/10.31234/osf.io/z3ahv}} \\[5mm]
+
+Prein, J. C., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., Sen, U., Slocombe, K., Sparks, R. Z., … Bohn, M. (2024). *Measuring variation in gaze following across communities, ages, and individuals – a showcase of the TANGO–CC* [Manuscript submitted for publication]. PsyArxiv. \mbox{\url{https://doi.org/10.31234/osf.io/fcq2g}} \\[10mm]
+				
 		\end{normalsize}
 	\end{flushleft}
 	
