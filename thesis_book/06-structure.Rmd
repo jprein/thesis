@@ -1,4 +1,4 @@
-# Structure of this Dissertation {-#structure}
+# Structure of This Dissertation {-#structure}
 
 This dissertation is embedded in an overarching, still ongoing project led by Prof. Dr. Manuel Bohn (Leuphana University Lüneburg) and Prof. Dr. Daniel Haun (Max Planck Institute for Evolutionary Anthropology Leipzig) that will create a new task battery for social cognition. This task battery aims to capture individual differences in children from diverse communities. The present thesis describes the steps that have already been undertaken in this endeavor: during my time as a doctoral candidate, we have designed, implemented, and validated the first task of the battery. We have decided to focus the first task on one of the most fundamental social-cognitive abilities: gaze following.
 

@@ -23,6 +23,18 @@ acronyms:
       longname: Item Response Theory
     - shortname: FB
       longname: False Belief
+    - shortname: DD
+      longname: Diverse Desires
+    - shortname: DB
+      longname: Diverse Beliefs
+    - shortname: KA
+      longname: Knowledge Access
+    - shortname: HE
+      longname: Hidden Emotions
     - shortname: DISKO
       longname: Differentiating Incomplete States of Knowledge — Open
+    - shortname: DSM—5
+      longname: Diagnostic and Statistical Manual of Mental Disorders, 5th edition
+    - shortname: ASD
+      longname: Autism Spectrum Disorder
 ---
