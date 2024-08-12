@@ -37,4 +37,6 @@ acronyms:
       longname: Diagnostic and Statistical Manual of Mental Disorders, 5th edition
     - shortname: ASD
       longname: Autism Spectrum Disorder
+    - shortname: WEIRD
+      longname: Western, Educated, Industrialized, Rich, Democratic
 ---
