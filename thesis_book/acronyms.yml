@@ -10,9 +10,9 @@ acronyms:
     - shortname: GLMM
       longname: Generalized Linear Mixed Model
     - shortname: TANGO
-      longname: Task for Assessing iNdividual differences in Gaze understanding — Open
-    - shortname: TANGO—CC
-      longname: TANGO—Cross-Cultural
+      longname: Task for Assessing iNdividual differences in Gaze understanding-Open
+    - shortname: TANGO-CC
+      longname: TANGO-Cross-Cultural
     - shortname: oREV
       longname: open Receptive Vocabulary task
     - shortname: PREVIC
@@ -32,11 +32,15 @@ acronyms:
     - shortname: HE
       longname: Hidden Emotions
     - shortname: DISKO
-      longname: Differentiating Incomplete States of Knowledge — Open
-    - shortname: DSM—5
+      longname: Differentiating Incomplete States of Knowledge-Open
+    - shortname: DSM-5
       longname: Diagnostic and Statistical Manual of Mental Disorders, 5th edition
     - shortname: ASD
       longname: Autism Spectrum Disorder
     - shortname: WEIRD
       longname: Western, Educated, Industrialized, Rich, Democratic
+    - shortname: SVG
+      longname: Scalable Vector Graphics
+    - shortname: GSAP
+      longname: GreenSock Animation Platform
 ---
