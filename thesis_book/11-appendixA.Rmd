@@ -1,18 +1,39 @@
-# Appendix A — Main Publications {#appendixA}
+# Appendix A — Overview of Articles Included in the Dissertation {#appendixA}
 
-This dissertation includes four main publications that were either published ([Study I](#studyI), [Study II](#studyII)) or under review ([Study III](#studyIII), [Study IV](#studyIV)) at the time of the dissertation submission. The full texts of these publications are provided below. For the accepted manuscript, the published version is provided. For manuscripts under review, the submitted versions are provided which are published online as pre-prints. 
+In accordance with the Doctoral Regulations of 20 July 2023 § 8 Section 3 and the Guideline for Cumulative Dissertations enacted at the Faculty of Sustainability in January 2012.
 
-**[Study I](#studyI):** Prein, J. C., Kalinke, S., Haun, D. B. M.\*, & Bohn, M.\* (2024). TANGO: A reliable, open-source, browser-based task to assess individual differences in gaze understanding in 3 to 5-year-old children and adults. *Behavior Research Methods, 56*(3), 2469–2485. \mbox{\url{https://doi.org/10.3758/s13428-023-02159-5}}
+\begin{table}[H]
+\centering
+\footnotesize
+\begin{tabular}{p{8mm}p{57mm}p{18mm}p{38mm}p{13mm}}\toprule
+Article No. & Bibliography & Publication Status & Specific Contribution & Weighing Factor \\
+\midrule
+1 & Prein, J. C., Kalinke, S., Haun, D. B. M.*, \& Bohn, M.* (2024). TANGO: A reliable, open-source, browser-based task to assess individual differences in gaze understanding in 3 to 5-year-old children and adults. \textit{Behavior Research Methods, 56}(3), 2469–2485. \url{https://doi.org/10.3758/s13428-023-02159-5} & Published & Co-author with predominant contribution. For a detailed description of all authors and their specific CRediT contribution, see manuscript of Study I & 1 \\
+2 & Prein, J. C., Maurits, L., Werwach, A., Haun, D. B. M.,* \& Bohn, M.* (2024). Variation in gaze following across the life span: A process-level perspective. \textit{Developmental Science}, Article e13546. \url{https://doi.org/10.1111/desc.13546} & Published & Co-author with predominant contribution. For a detailed description of all authors and their specific CRediT contribution, see manuscript of Study II & 1 \\
+3 & Bohn, M.*, Prein, J. C.*, Ayikoru, A., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Isabella, J., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., … Haun, D. (2024). \textit{A universal of human social cognition: Children from 17 communities process gaze in similar ways.} PsyArXiv. \url{https://doi.org/10.31234/osf.io/z3ahv} & Under Review & Co-author with equal contribution. For a detailed description of all authors and their specific CRediT contribution, see manuscript of Study III & 1 \\
+4 & Prein, J. C., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., Sen, U., Slocombe, K., Sparks, R. Z., … Bohn, M. (2024). \textit{Measuring variation in gaze following across communities, ages, and individuals – a showcase of the TANGO–CC.} PsyArxiv. \url{https://doi.org/10.31234/osf.io/fcq2g} & Under Review & Co-author with predominant contribution. For a detailed description of all authors and their specific CRediT contribution, see manuscript of Study IV & 1 \\
+\bottomrule
+\end{tabular}
+\caption{\scriptsize{* denotes shared first or last authorship}}
+\end{table}
 
-**[Study II](#studyII):** Prein, J. C., Maurits, L., Werwach, A., Haun, D. B. M.,\* & Bohn, M.\* (2024). Variation in gaze following across the life span: A process-level perspective. *Developmental Science*, Article e13546. \mbox{\url{https://doi.org/10.1111/desc.13546}}
+\newpage
 
-**[Study III](#studyIII):** Bohn, M.\*, Prein, J. C.\*, Ayikoru, A., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Isabella, J., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., … Haun, D. (2024). *A universal of human social cognition: Children from 17 communities process gaze in similar ways* [Manuscript submitted for publication]. PsyArXiv. \mbox{\url{https://doi.org/10.31234/osf.io/z3ahv}}
+## Declaration According to § 16 of the Guideline for Cumulative Dissertations {-}
 
-**[Study IV](#studyIV):** Prein, J. C., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., Sen, U., Slocombe, K., Sparks, R. Z., … Bohn, M. (2024). *Measuring variation in gaze following across communities, ages, and individuals – a showcase of the TANGO–CC* [Manuscript submitted for publication]. PsyArxiv. \mbox{\url{https://doi.org/10.31234/osf.io/fcq2g}}
+I avouch that all information given in this appendix is true in each instance and overall.
 
 &nbsp;
 
-\* denotes shared first or last authorship.
+Hamburg, [Date] 
+
+&nbsp; 
+
+[Signature]
+
+&nbsp; 
+
+The full texts of these publications are provided below. For the accepted manuscripts, the published versions are provided. For manuscripts under review, the submitted versions are provided which are published online as pre-prints. 
 
 \newpage
 
