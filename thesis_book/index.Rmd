@@ -39,11 +39,11 @@ csl:              "apa.csl"
 	  \begin{normalsize}
 	  \vspace*{5mm}
 	  
-	  		Submitted on: \tabto*{45mm} October 1, 2024 \\
+	  		Submitted on: \tabto*{45mm}  \\
 	  		
-	  		Oral thesis defense on: \tabto*{45mm} February 26, 2025 \\
+	  		Oral thesis defense on: \tabto*{45mm}   \\
 	  		
-	  		Year of publication: \tabto*{45mm} 2025 \\[10mm]
+	  		Year of publication: \tabto*{45mm}  \\[10mm]
 	  		
 	  		Supervisors and examiners: \\[5mm]
 	  		\tabto*{5mm} Prof.\,Dr.\, Manuel Bohn, \textit{Leuphana University Lüneburg}\\
@@ -58,9 +58,9 @@ Prein, J. C., Kalinke, S., Haun, D. B. M.\*, \& Bohn, M.\* (2024). TANGO: A reli
 
 Prein, J. C., Maurits, L., Werwach, A., Haun, D. B. M.,\* \& Bohn, M.\* (2024). Variation in gaze following across the life span: A process-level perspective. \textit{Developmental Science, 27}(6), Article e13546. \mbox{\url{https://doi.org/10.1111/desc.13546}} \\[5mm]
 
-Bohn, M.\*, Prein, J. C.\*, Ayikoru, A., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Isabella, J., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., … Haun, D. (2024). \textit{A universal of human social cognition: Children from 17 communities process gaze in similar ways} [Manuscript submitted for publication]. PsyArXiv. \mbox{\url{https://doi.org/10.31234/osf.io/z3ahv}} \\[5mm]
+Bohn, M.\*, Prein, J. C.\*, Ayikoru, A., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Isabella, J., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., … Haun, D. (2024). \textit{A universal of human social cognition: Children from 17 communities process gaze in similar ways} [Manuscript under review]. PsyArXiv. \mbox{\url{https://doi.org/10.31234/osf.io/z3ahv}} \\[5mm]
 
-Prein, J. C., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., Sen, U., Slocombe, K., Sparks, R. Z., … Bohn, M. (2024). Measuring variation in gaze following across communities, ages, and individuals – a showcase of the TANGO–CC. \textit{Advances in Methods and Practices in Psychological Science}. \mbox{\url{https://doi.org/10.31234/osf.io/fcq2g}}
+Prein, J. C., Bednarski, F. M., Dzabatou, A., Frank, M. C., Henderson, A. M. E., Kalbitz, J., Kanngiesser, P., Keşşafoğlu, D., Koymen, B., Manrique-Hernandez, M., Magazi, S., Mújica-Manrique, L., Ohlendorf, J., Olaoba, D., Pieters, W., Pope-Caldwell, S., Sen, U., Slocombe, K., Sparks, R. Z., … Bohn, M. (in press). Measuring variation in gaze following across communities, ages, and individuals – a showcase of the TANGO–CC. \textit{Advances in Methods and Practices in Psychological Science}. Link to preprint: \mbox{\url{https://doi.org/10.31234/osf.io/fcq2g}}
 
 				\end{hangparas}
 		\end{normalsize}
