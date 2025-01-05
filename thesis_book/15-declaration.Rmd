@@ -1,10 +1,10 @@
 # Declaration of Independence {-#independence}
 
 Julia Christin Prein \
-[Straße Hausnummer] \
-[PLZ Ort] \
-[Telefon] \
-[Email] \
+Street + Number \
+Postal Code \
+Phone Number \
+Email Address \
 
 I hereby declare that I have not yet taken a doctoral examination or applied for admission to one. 
 
@@ -13,9 +13,8 @@ I certify that the dissertation *Rethinking Variation in Social Cognition: Gaze 
 I declare in lieu of oath that I have written the submitted dissertation *Rethinking Variation in Social Cognition: Gaze Following across Individuals, Ages, and Communities* independently and without any unauthorized outside help. I have not made use of any aids or writings other than those specified by me. I have labelled all passages taken literally or analogously from other writings. I have been informed of the consequences under criminal law in accordance with Art. 156 of the German Criminal Code.
 
 &nbsp;
-
-Hamburg, [Datum] 
-
 &nbsp; 
+&nbsp;
+&nbsp;
 
-[Unterschrift]
+Lüneburg, 9 January 2025
